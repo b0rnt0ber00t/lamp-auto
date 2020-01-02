@@ -9,11 +9,11 @@ chmo +x install.sh
 ./install.sh
 ```
 - Screenshot
-  - ![gambar1](https://raw.githubusercontent.com/b0rnt0ber00t/lampp-auto/master/Screenshot/1-Screenshot-running-lampp-auto-installer.png)
-  - ![gambar2](https://raw.githubusercontent.com/b0rnt0ber00t/lampp-auto/master/Screenshot/2-Screenshot-if-all-packages-already-exsts.png)
-  - ![gambar3](https://raw.githubusercontent.com/b0rnt0ber00t/lampp-auto/master/Screenshot/3-Screenshot-php-info.png)
-  - ![gambar4](https://raw.githubusercontent.com/b0rnt0ber00t/lampp-auto/master/Screenshot/4-Screenshot-phpmyadmin.png)
-  - ![gambar5](https://raw.githubusercontent.com/b0rnt0ber00t/lampp-auto/master/Screenshot/5-Screenshot-RDBMS-mariadb.png)
+  - ![gambar1](Screenshot/1-Screenshot-running-lampp-auto-installer.png)
+  - ![gambar2](Screenshot/2-Screenshot-if-all-packages-already-exsts.png)
+  - ![gambar3](Screenshot/3-Screenshot-php-info.png)
+  - ![gambar4](Screenshot/4-Screenshot-phpmyadmin.png)
+  - ![gambar5](Screenshot/5-Screenshot-RDBMS-mariadb.png)
 - note!
   - media tester = Debian9.9 (VirtualBox)
 
