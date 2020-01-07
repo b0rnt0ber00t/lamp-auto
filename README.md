@@ -1,12 +1,13 @@
 # lampp-auto
 Enjoy and have fun
+
 - Install
 ```
 apt update
 apt install git
 git clone https://github.com/b0rnt0ber00t/lampp-auto.git && cd lampp-auto
-chmo +x install.sh
-./install.sh
+sudo chmod +x install.sh
+sudo ./install.sh
 ```
 - Screenshot
   - ![gambar1](Screenshot/1-Screenshot-running-lampp-auto-installer.png)
