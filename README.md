@@ -3,9 +3,9 @@ Enjoy and have fun
 
 - Install
 ```
-apt update
-apt install git
-git clone https://github.com/b0rnt0ber00t/lampp-auto.git && cd lampp-auto
+sudo apt update
+sudo apt install git
+sudo git clone https://github.com/b0rnt0ber00t/lampp-auto.git && cd lampp-auto
 sudo chmod +x install.sh
 sudo ./install.sh
 ```
