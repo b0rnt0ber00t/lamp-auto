@@ -1,4 +1,4 @@
-# lampp-auto
+# lamp-auto
 Enjoy and have fun
 
 - Install
